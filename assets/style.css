@@ -7,7 +7,9 @@ body {
 	font-style: normal;
 }
 
-
+.carousel-item{
+	width:1920px;
+}
 
 h3{
 	font-size: 20px;
