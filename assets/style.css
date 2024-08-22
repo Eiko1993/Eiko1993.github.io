@@ -6,6 +6,13 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
+
+
+h3{
+	font-size: 20px;
+}
+
 .top-header {
 	background-color: white;
 	position: sticky;
@@ -93,7 +100,7 @@ body {
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 #gallery {
@@ -348,6 +355,11 @@ input[type="submit"] {
 	.service {
 		max-width: 90%;
 	}
+
+	.service p{
+		font-size: 16px;
+	}
+
 	#about, #contact {
 		padding-inline: 2em;
 		padding-block: 2em;
